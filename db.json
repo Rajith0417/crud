@@ -1,0 +1,60 @@
+{
+  "employer": [
+    {
+      "id": 1,
+      "name": "Rajith",
+      "last": "Gunasinghe",
+      "email": "Gunasinghe",
+      "number": 34334343,
+      "salary": "38888900"
+    },
+    {
+      "id": 4,
+      "name": "fffsdlf",
+      "last": "lfdjflsdjfl",
+      "email": "lfdjflsdjfl",
+      "number": "343434",
+      "salary": "778899"
+    },
+    {
+      "id": 5,
+      "name": "ddf",
+      "last": "dfdfs",
+      "email": "dfdfs",
+      "number": "34334",
+      "salary": "8765444"
+    },
+    {
+      "id": 6,
+      "name": "name ",
+      "last": "last ",
+      "email": "last ",
+      "number": "number",
+      "salary": "45433"
+    },
+    {
+      "id": 7,
+      "name": "name1",
+      "last": "last1",
+      "email": "last1",
+      "number": "number1",
+      "salary": "5555555"
+    },
+    {
+      "id": 12,
+      "name": "kfdkdj",
+      "last": "dffjsdl",
+      "email": "dffjsdl",
+      "number": "84398393",
+      "salary": "8495439"
+    },
+    {
+      "id": 13,
+      "name": "dummy",
+      "last": "Name",
+      "email": "Name",
+      "number": "0985567543",
+      "salary": "9989811"
+    }
+  ]
+}
